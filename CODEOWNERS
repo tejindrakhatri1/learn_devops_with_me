@@ -1,1 +1,8 @@
+# Global owner for all files
+* @tejindrakhatri
 
+# Terraform AWS Infrastructure ownership
+/01-terraform-aws-infra/ @tejindrakhatri
+
+# Kubernetes Deployments ownership
+/03-kubernetes-deployments/ @tejindrakhatri
